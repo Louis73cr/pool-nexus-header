@@ -18,10 +18,9 @@ This extension provides the Nexus system header integration in VS Code.
 
 ## Install
 
-Launch Quick Open with <kbd>⌘</kbd>+<kbd>P</kbd> and enter
-```
-ext install NSheader
-```
+Pour installer, exécutez la commande suivante : <code>code --install-extension NexusSystem-header-0.42.8.vsix</code>.
+
+Allez dans les paramètres de l'extension et ajoutez votre email ainsi que votre nom d'utilisateur.
 
 ## Usage
 
@@ -47,6 +46,6 @@ To override these values, specify these properties in *User Settings* :
 
 ## License
 
-fork from https://github.com/kube/vscode-42header
+fork from https://github.com/kube/vscode-NSheader
 
 MIT
