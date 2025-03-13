@@ -46,6 +46,6 @@ To override these values, specify these properties in *User Settings* :
 
 ## License
 
-fork from https://github.com/kube/vscode-NSheader
+fork from https://github.com/kube/vscode-42header
 
 MIT
